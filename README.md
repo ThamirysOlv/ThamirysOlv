@@ -1,6 +1,6 @@
 ### Hello, I am Tammy.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThamirysOlv&layout=compact&theme=gruvbox&show_icons=true&count_private=true)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThamirysOlv&layout=compact&theme=gruvbox&show_icons=true&count_private=true)]()
 
 
 
