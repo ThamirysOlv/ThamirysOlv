@@ -1,7 +1,7 @@
 ### Hello, I am Tammy.
 
 
-thamirysolv01@gmail.com
+Linkedin: https://www.linkedin.com/in/thamirys-de-oliveira-476844209/
 
 
 
